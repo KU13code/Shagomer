@@ -14,13 +14,16 @@ ___
 
  ## __Инструменты__
 
-[![IntelliJ IDEA](icons/intellij-idea-48.png)](https://www.jetbrains.com/idea/)
-[![Java](icons/java-coffee-cup-48.png)](https://www.java.com/ru/)
-[![PostgreSQL](icons/pgSQL.png)](https://www.postgresql.org/)
-[![Spring](icons/spring-48.png)](https://spring.io/)
-[![XML](icons/xml-48.png)](https://www.xml.com/)
-[![Hibenate](icons/hibernate-1.png)](https://hibernate.org/)
-[![Visual studio code](icons/visual-studio-code-2019-48.png)](https://code.visualstudio.com/)
+[![IntelliJ IDEA](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/intellij-idea-48.png)](https://www.jetbrains.com/idea/)
+[![Java](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/java-coffee-cup-48.png)](https://www.java.com/ru/)
+[![PostgreSQL](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/pgSQL.png)](https://www.postgresql.org/)
+[![Spring](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/spring-48.png)](https://spring.io/)
+[![XML](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/xml-48.png)](https://www.xml.com/)
+[![Hibenate](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/hibernate-1.png)](https://hibernate.org/)
+[![Visual studio code](https://github.com/Alexey7721/product-and-reviews/raw/master/icons/visual-studio-code-2019-48.png)](https://code.visualstudio.com/)
+
+
+
 <br> 
 
 
